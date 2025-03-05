@@ -11,11 +11,19 @@ Context: 64 Bit
 #> 
 
 $ConsumerApps = @{
-    "Microsoft.XboxApp"                      = "Xbox App"
-    "Microsoft.XboxGameOverlay"              = "Xbox Game Overlay"
-    "Microsoft.Xbox.TCUI"                    = "Xbox TCUI"
+    "Microsoft.XboxApp" = "Xbox App"
+    "Microsoft.XboxGameOverlay" = "Xbox Game Overlay"
+    "Microsoft.Xbox.TCUI" = "Xbox TCUI"
     "Microsoft.MicrosoftSolitaireCollection" = "Solitaire Collection"
-    "Microsoft.549981C3F5F10"                = "Cortana"
+    "Microsoft.549981C3F5F10" = "Cortana"
+    "Microsoft.BingNews" = "BingNews"
+    "Microsoft.BingWeather" = "BingWeather"
+    "Microsoft.Messaging" = "Messaging"
+    "Microsoft.MixedReality.Portal" = "MixedReality Portal"
+    "Microsoft.OutlookForWindows" = "Outlook for Windows"
+    "Microsoft.WindowsStore" = "Windows Store"
+    "Microsoft.XboxGameCallableUI" = "XboxGameCallableUI"
+    "MSTeams" = "MSTeams"
 }
 
 

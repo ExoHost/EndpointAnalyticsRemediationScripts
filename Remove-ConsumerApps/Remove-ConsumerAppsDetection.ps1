@@ -16,6 +16,14 @@ $ConsumerApps = @{
     "Microsoft.Xbox.TCUI" = "Xbox TCUI"
     "Microsoft.MicrosoftSolitaireCollection" = "Solitaire Collection"
     "Microsoft.549981C3F5F10" = "Cortana"
+    "Microsoft.BingNews" = "BingNews"
+    "Microsoft.BingWeather" = "BingWeather"
+    "Microsoft.Messaging" = "Messaging"
+    "Microsoft.MixedReality.Portal" = "MixedReality Portal"
+    "Microsoft.OutlookForWindows" = "Outlook for Windows"
+    "Microsoft.WindowsStore" = "Windows Store"
+    "Microsoft.XboxGameCallableUI" = "XboxGameCallableUI"
+    "MSTeams" = "MSTeams"
 }
 
 # Check if any of the Consumer Apps are installed
