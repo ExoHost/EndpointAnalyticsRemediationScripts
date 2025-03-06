@@ -23,7 +23,21 @@ $ConsumerApps = @{
     "Microsoft.OutlookForWindows" = "Outlook for Windows"
     "Microsoft.WindowsStore" = "Windows Store"
     "Microsoft.XboxGameCallableUI" = "XboxGameCallableUI"
-    "MSTeams" = "MSTeams"
+    "Clipchamp.Clipchamp" = "Clipchamp"
+    "Microsoft.Getstarted" = "Getstarted"
+    "Microsoft.GetHelp" = "Get Help"
+    "Microsoft.People" = "People"
+    "Microsoft.PowerAutomateDesktop" = "PowerAutomate Desktop"
+    "Microsoft.windowscommunicationsapps" = "Windows Communications"
+    "Microsoft.WindowsFeedbackHub" = "Feedback Hub"
+    "Microsoft.WindowsMaps" = "Maps"
+    "Microsoft.XboxGamingOverlay" = "Xbox Gaming-Overlay"
+    "Microsoft.XboxIdentityProvider" = "Xbox Identity"
+    "Microsoft.XboxSpeechToTextOverlay" = "Xboy SpeechToText"
+    "Microsoft.YourPhone" = "Your Phone"
+    "Microsoft.ZuneMusic" = "Zune Music"
+    "Microsoft.ZuneVideo" = "Zune Video"
+    "Microsoft.Windows.DevHome" = "Dev Home"
 }
 
 
